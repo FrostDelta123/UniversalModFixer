@@ -78,21 +78,7 @@
     <version value="1.0" />
   </component>
   <component name="JavadocGenerationManager">
-    <option name="OUTPUT_DIRECTORY" />
-    <option name="OPTION_SCOPE" value="protected" />
-    <option name="OPTION_HIERARCHY" value="true" />
-    <option name="OPTION_NAVIGATOR" value="true" />
-    <option name="OPTION_INDEX" value="true" />
-    <option name="OPTION_SEPARATE_INDEX" value="true" />
-    <option name="OPTION_DOCUMENT_TAG_USE" value="false" />
-    <option name="OPTION_DOCUMENT_TAG_AUTHOR" value="false" />
-    <option name="OPTION_DOCUMENT_TAG_VERSION" value="false" />
-    <option name="OPTION_DOCUMENT_TAG_DEPRECATED" value="true" />
-    <option name="OPTION_DEPRECATED_LIST" value="true" />
     <option name="OTHER_OPTIONS" value="" />
-    <option name="HEAP_SIZE" />
-    <option name="LOCALE" />
-    <option name="OPEN_IN_BROWSER" value="true" />
   </component>
   <component name="Palette2">
     <group name="Swing">
@@ -241,7 +227,25 @@
   <component name="SvnBranchConfigurationManager">
     <option name="mySupportsUserInfoFilter" value="true" />
   </component>
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+  </component>
   <component name="libraryTable">
+    <library name="ActuallyAdditions-1.7.10-r21-deobf">
+      <CLASSES>
+        <root url="jar://$PROJECT_DIR$/libs/ActuallyAdditions-1.7.10-r21-deobf.jar!/" />
+        <root url="jar://$PROJECT_DIR$/libs/ActuallyAdditions-1.7.10-r21.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="EventHelper-1.7.10-1.11">
+      <CLASSES>
+        <root url="jar://$PROJECT_DIR$/libs/EventHelper-1.7.10-1.11.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="Gradle: :forgeSrc:1.7.10-10.13.4.1558-1.7.10">
       <CLASSES>
         <root url="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.4.1558-1.7.10/forgeSrc-1.7.10-10.13.4.1558-1.7.10.jar!/" />
@@ -785,6 +789,21 @@
     <library name="Gradle: tv.twitch:twitch:5.16">
       <CLASSES>
         <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/tv.twitch/twitch/5.16/1f55f009c61637c10c0acfb8b5ffc600f30044b4/twitch-5.16.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="ImmersiveEngineering-0.7.7-deobf">
+      <CLASSES>
+        <root url="jar://$PROJECT_DIR$/libs/ImmersiveEngineering-0.7.7-deobf.jar!/" />
+        <root url="jar://$PROJECT_DIR$/libs/ImmersiveEngineering-0.7.7.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="modlauncher-3.2.0">
+      <CLASSES>
+        <root url="jar://$PROJECT_DIR$/libs/modlauncher-3.2.0.jar!/" />
       </CLASSES>
       <JAVADOC />
       <SOURCES />
